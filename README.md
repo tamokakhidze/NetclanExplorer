@@ -11,17 +11,17 @@ professional services and instant deals.
 
 # User interface of Refine and Explore pages
 
-<img src="https://github.com/user-attachments/assets/ab67d2b2-fe2a-41de-bcc1-5d8b56a112a0" alt="Screenshot 1" width="600"/>
+<img src="https://github.com/user-attachments/assets/ab67d2b2-fe2a-41de-bcc1-5d8b56a112a0" alt="Screenshot 1" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/ba41fa50-07e9-470b-b56a-61459d8378b0" alt="Screenshot 2" width="600"/>
+<img src="https://github.com/user-attachments/assets/ba41fa50-07e9-470b-b56a-61459d8378b0" alt="Screenshot 2" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/19ed1b64-fa66-4742-a35b-28841ec879b9" alt="Screenshot 3" width="600"/>
+<img src="https://github.com/user-attachments/assets/19ed1b64-fa66-4742-a35b-28841ec879b9" alt="Screenshot 3" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/234fc246-d80b-4501-bebf-30e994d35adb" alt="Screenshot 4" width="600"/>
+<img src="https://github.com/user-attachments/assets/234fc246-d80b-4501-bebf-30e994d35adb" alt="Screenshot 4" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/d4cd8be7-d0c2-46b3-b457-61027bbc435b" alt="Screenshot 5" width="600"/>
+<img src="https://github.com/user-attachments/assets/d4cd8be7-d0c2-46b3-b457-61027bbc435b" alt="Screenshot 5" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/fff7daae-9afc-4127-9512-65b2b6c8eb2a" alt="Screenshot 6" width="600"/>
+<img src="https://github.com/user-attachments/assets/fff7daae-9afc-4127-9512-65b2b6c8eb2a" alt="Screenshot 6" width="400"/>
 
 # Installation Instructions 
 
